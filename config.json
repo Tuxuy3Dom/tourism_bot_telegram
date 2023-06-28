@@ -1,0 +1,15 @@
+{
+    "group_name": "Grupa Turystyczna",
+    "spam_keywords": ["promocja", "niska cena", "niezwykła oferta", "szybka rezerwacja"],
+    "members": [
+      {
+        "name": "Jan Kowalski",
+        "email": "jan.kowalski@example.com"
+      },
+      {
+        "name": "Anna Nowak",
+        "email": "anna.nowak@example.com"
+      }
+    ]
+}
+  
